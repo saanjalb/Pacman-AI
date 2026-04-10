@@ -30,4 +30,4 @@ Run the game:
 📁 Project Structure
 Pacman-AI/
 │
-└── pacman.py       # Main game file
+└── pacman.py  # Main game file
